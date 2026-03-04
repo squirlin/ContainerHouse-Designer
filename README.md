@@ -1,2 +1,2 @@
 # ContainerHouse-Designer
-Jeanette’s New House Designer – Modular Canvas + Materials Engine
+ New House Designer – Modular Canvas + Materials Engine
